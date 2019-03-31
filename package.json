@@ -4,7 +4,7 @@
     "description": "A lush dark colortheme inspired by geodes and crystals.",
     "publisher": "evalapply",
     "repository": "https://github.com/nkleemann/crystal-cult-colortheme",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.32.0"
     },
@@ -20,10 +20,9 @@
             }
         ]
     },
-    
     "icon": "images/icon.png",
     "galleryBanner": {
-      "color": "#1C1C1C",
-      "theme": "dark"
+        "color": "#1C1C1C",
+        "theme": "dark"
     }
 }

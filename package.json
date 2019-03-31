@@ -3,6 +3,7 @@
     "displayName": "Crystal Cult Colortheme",
     "description": "A lush dark colortheme inspired by geodes and crystals.",
     "publisher": "evalapply",
+    "repository": "https://github.com/nkleemann/crystal-cult-colortheme",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.32.0"

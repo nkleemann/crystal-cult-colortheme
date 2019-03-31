@@ -1,0 +1,28 @@
+{
+    "name": "crystal-cult-colortheme",
+    "displayName": "Crystal Cult Colortheme",
+    "description": "A lush dark colortheme inspired by geodes and crystals.",
+    "publisher": "evalapply",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.32.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Crystal Cult Colortheme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Crystal Cult Colortheme-color-theme.json"
+            }
+        ]
+    },
+    
+    "icon": "images/icon.png",
+    "galleryBanner": {
+      "color": "#1C1C1C",
+      "theme": "dark"
+    }
+}

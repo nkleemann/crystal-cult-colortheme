@@ -1,4 +1,4 @@
-# Crystal Cult Theme
+# :sparkles: Crystal Cult Theme
 A lush dark colortheme inspired by geodes and crystals.
 
 ![screenshotReactNative](images/screenLeft.png)

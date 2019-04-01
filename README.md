@@ -1,7 +1,7 @@
-# Crystal Cult Color Theme
+# Crystal Cult Theme
 A lush dark colortheme inspired by geodes and crystals.
 
-
+![screenshotReactNative](images/screenLeft.png)
 
 ## Usage
 1. Install from [Marketplace](https://marketplace.visualstudio.com/items?itemName=evalapply.crystal-cult-colortheme)

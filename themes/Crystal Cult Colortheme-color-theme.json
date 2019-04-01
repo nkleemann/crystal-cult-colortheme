@@ -2,31 +2,26 @@
 	"name": "Crystal Cult Colortheme",
 	"type": "dark",
 	"colors": {
-		// Editor main window
+
 		"editor.background": "#1C1C1C",
 		"editor.foreground": "#F8F8F2",
 
-		// Far left bar with icons
 		"activityBarBadge.background": "#A4AFFF",
 		"activityBar.background": "#1C1C1C",
 		"activityBar.border": "#1C1C1C",
 
-		// Left bar with variable content
 		"sideBarTitle.foreground": "#525252",
 		"sideBar.border": "#1C1C1C",
 		"sideBar.foreground": "#e6e6e6",
 		"sideBar.background": "#1C1C1C",
 
-		// Statusbar
 		"statusBar.background": "#1C1C1C",
 
-		// Tabbar
 		"tab.activeBackground": "#1C1C1C",
 		"tab.inactiveBackground": "#1C1C1C",
 		"editorGroupHeader.tabsBackground": "#1C1C1C",
 		"tab.inactiveForeground": "#6b6b6b",
 
-		// Titlebar
 		"titleBar.activeBackground": "#1C1C1C",
 		"titleBar.activeForeground": "#e6e6e6",
 		"titleBar.inactiveBackground": "#1C1C1C",
@@ -404,7 +399,6 @@
 				"foreground": "#E0E4FA"
 			}
 		},
-		// Tweak
 		{
 			"name": "Function Parameter",
 			"scope": [
@@ -416,7 +410,6 @@
 				"foreground": "#FCD3C2"
 			}
 		},
-		// Tweak
 		{
 			"name": "Other Var",
 			"scope": [
@@ -426,7 +419,6 @@
 				"foreground": "#F8F8F2"
 			}
 		},
-		// Tweak
 		{
 			"name": "Braces and Semicolon",
 			"scope": [

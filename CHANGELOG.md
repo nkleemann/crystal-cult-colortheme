@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.4.0
+
+- Fixed JSX nested content color
+
 ## 0.3.0
 
 - Add screenshot for marketplace

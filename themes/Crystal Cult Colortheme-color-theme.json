@@ -196,6 +196,16 @@
 			}
 		},
 		{
+			"name": "JSX Nested",
+			"scope": [
+				"JSXNested"
+
+			],
+			"settings": {
+				"foreground": "#F8F8F2"
+			}
+		},
+		{
 			"name": "Class, Support",
 			"scope": [
 				"entity.name",
